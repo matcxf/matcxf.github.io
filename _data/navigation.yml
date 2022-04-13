@@ -1,0 +1,29 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Tags"
+    url: /tags/
+
+blog:
+  - title: "Research"
+    url: /research/
+    children:
+      # - title: "recent"
+        # url: /recent/
+      # - title: "highlight"
+        # url: /highlight/
+
+  - title: Teaching
+    url: /teaching/
+    children:
+      # - title: "Fall 2021"
+        # url: /teaching/math226-fa2021/
+      # - title: "Winter 2022"
+        # url: /teaching/math226-winter2022/
+      # - title: "Spring 2022"
+        # url: /teaching/math226-spring2022/
+
+  - title: 数理统计Tips
+    url: /mstips/

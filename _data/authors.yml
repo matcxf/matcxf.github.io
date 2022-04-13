@@ -1,0 +1,30 @@
+# /_data/authors.yml
+# Long Chen is the default author
+# for new authors, simply add a new one using the template
+# and add
+# - author: "First Last"
+# in the page preamble
+
+Xiaofeng Chen:
+  name        : "Xiaofeng Chen"
+  bio         : "Professor of Mathematics at Chongqing Jiaotong University, Chongqing China"
+  avatar      : "http://math.cqjtu.edu.cn/info/1015/4292.htm"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:xxffchg@126.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://math.cqjtu.edu.cn/info/1015/4292.htm"
+
+
+Hua Li:
+  name        : "Hua Li"
+  bio: " "
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
